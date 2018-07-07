@@ -9,3 +9,67 @@
   background-repeat: no-repeat;
   background-size: 100% auto;
 }
+#Breakfast {
+  background-image: url("/img/foodtop/breakfast.jpg");
+  height: 170px;
+  width: 90Px;
+  background-size: 100% auto;
+  text-align: center;
+}
+
+#Lunch {
+  background-image: url("/img/foodtop/lunch.jpg");
+  text-align: center;
+}
+
+#dinner {
+  background-image: url("/img/foodtop/dinner.jpg");
+  text-align: center;
+  font-size: 30px
+  height:auto;
+}
+
+#HappyHour {
+  text-align: center;
+  background-size:  100% auto;
+  height: 30px;
+  width:50px;
+}
+
+#partytime {
+  background-color: #F15A29;
+  text-align: center;
+  background-size: 100%auto;
+}
+#menu {
+  font-size: 28px;
+  height: 200px;
+}
+.btn-outline-warning:hover{
+  color: #212529;
+  border-color: coral;
+  background-color: coral;
+}
+.btn-outline-warning {
+  color:Markazi
+  border-color: coral;
+#jumbotron-menu-nav {
+  background-image: url('../img/backgrounds/foodsBg.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  font-size: 18#jumbotron-menu-nav {
+  background-image: url('../img/backgrounds/foodsBg.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  font-size: 22px;px;
+}
+#reviews {
+  box-shadow: 10px 10px 10px 10px grey;
+  border-radius: 0.3rem;
+}
+col{
+  background-image: url("/img/fastFood1.jpg");
+}
+.col{
