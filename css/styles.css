@@ -79,6 +79,21 @@ background-size:  cover;
   text-align: center;
   background-image: url(../img/backgrounds/subscribe.jpg);
   background-size:  cover;
+  color: white;
+}
+#subscribe h3,input {
+  margin-left:300px;
+  width:350px;
+  font-size:14px;
+}
+#subscribe h3 {
+  padding-left: 40px;
+}
+#subscribe button {
+  padding: 5px;
+  margin-left:4px;
+  border-radius: 6px;
+  background-color: #F15A29;
 }
 
 #footer {
