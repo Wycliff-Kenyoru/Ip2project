@@ -5,7 +5,7 @@
 .jumbotron {
   border-radius: 0;
   text-align: center;
-  background-image: url('/img/backgrounds/landing.jpg');
+  background-image: url("/img/backgrounds/landing.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: 100% auto;
@@ -18,11 +18,13 @@
   background-size: 100% auto;
   text-align: center;
 }
-#Breakfast:hover{
+
+#Breakfast:hover {
   opacity: 0.3;
   background-color: white;
   color: black;
 }
+
 #Lunch {
   background-image: url("/img/foodtop/lunch.jpg");
   text-align: center;
@@ -40,10 +42,12 @@
   font-size: 30px;
   background-size: 100% auto;
 }
-#dinner:hover{
+
+#dinner:hover {
   opacity: 0.3;
   background-color: white;
 }
+
 #HappyHour {
   text-align: center;
   background-size: 100% auto;
